@@ -1,2 +1,2 @@
 # Responsi_123180125
-Responsi Praktikum Teknologi Pemrograman Mobile Plug A
+Responsi Praktikum Teknologi dan Pemrograman Mobile Plug A
